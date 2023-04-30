@@ -1,2 +1,13 @@
 # c-to-mermaid
-Ferramenta para converter código em ANSI C para nós de diagrama Mermaid.
+Ferramenta feita em Python para converter código ANSI C em diagrama Mermaid. 
+
+O objetivo deste projeto é auxiliar a criação de grafos para análise estática do código fonte.
+
+# Como utilizar
+
+
+# TODO
+
+
+
+
